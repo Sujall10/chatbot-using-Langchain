@@ -1,7 +1,5 @@
-
-
 import streamlit as st
-from langchain import HuggingFaceHub
+from langchain_community.llms import HuggingFaceHub
 from dotenv import load_dotenv
 import os
 
