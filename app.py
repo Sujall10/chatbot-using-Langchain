@@ -1,7 +1,6 @@
 
 
 import streamlit as st
-from langchain.chat_models import ChatOpenAI
 from langchain import HuggingFaceHub
 from dotenv import load_dotenv
 import os
